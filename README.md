@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Michael Tran
 - 👀 I’m interested in high energy physics, machine learning, and data science.
 - 🌱 I’m currently learning about fundamental and technical analysis.
-- 💞️ I’m looking to collaborate on exciting machine learning projects.
-- 📫 How to reach me mct134@rutgers.edu
+- 💞️ I’m looking to collaborate on exciting machine learning projects, especially kaggle challenges.
+- 📫 Reach me by email at mct134@rutgers.edu or MichaelCTran21@gmail.com
 
 
 
