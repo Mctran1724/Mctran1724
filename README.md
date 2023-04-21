@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael Tran
-- 👀 I’m interested in finance, high energy physics, machine learning, and data science.
-- 🌱 I’m currently learning about intersections of technology and market dynamics.
-- 💞️ I’m looking to collaborate on exciting machine learning projects, especially kaggle challenges.
+- 👀 I’m interested in the intersection of finance, technology, and scientific thinking.
+- 🌱 I’m currently developing my skills and knowledge as a technologist.
+- 💞️ I’m looking to collaborate on exciting projects.
 - 📫 Reach me by email at mct134@rutgers.edu or MichaelCTran21@gmail.com
 
 
