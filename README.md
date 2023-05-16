@@ -2,7 +2,7 @@
 - 👀 I’m interested in the intersection of finance, technology, and scientific thinking.
 - 🌱 I’m currently developing my skills and knowledge as a technologist.
 - 💞️ I’m looking to collaborate on exciting projects.
-- 📫 Reach me by email at mct134@rutgers.edu or MichaelCTran21@gmail.com
+- 📫 Reach me by email at MichaelCTran21@gmail.com
 
 
 
